@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Alura",
+    "description": "Node.js: API Rest com Express e MongoDB"
+  },
+  {
+    "id": 2,
+    "title": "Alura",
+    "description": "React: Entendendo como a biblioteca funciona"
+  },
+  {
+    "id": 3,
+    "title": "Alura",
+    "description": "Vue.js: construindo Single Page Applications"
+  },
+  {
+    "id": 4,
+    "title": "Alura",
+    "description": "PostgreSQL: Views, Sub-Consultas e Funções"
+  },
+  {
+    "id": 5,
+    "title": "Alura",
+    "description": "JS na web: CRUD com JavaScript assíncrono"
+  },
+  {
+    "id": 6,
+    "title": "Alura",
+    "description": "Formação Front End"
+  },
+  {
+    "id": 7,
+    "title": "Alura",
+    "description": "Orientação a Objetos com PHP: Classes, métodos e atributos"
+  },
+  {
+    "id": 8,
+    "title": "Alura",
+    "description": "PHP Exceptions: Tratamento de erros"
+  }
+]

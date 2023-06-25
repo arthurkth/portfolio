@@ -1,0 +1,15 @@
+.mat-card-header {
+    display: block;
+}
+
+.mat-card-subtitle {
+    color: #FFFFFE;
+}
+
+
+@media (min-width:992px) {
+    .skillcard {
+        padding: 50px 16px;
+    }
+
+}

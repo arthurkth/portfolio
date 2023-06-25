@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Desenvolvedor Web",
+    "description": "Desenvolvimento de sites, para empresas que buscam migrar para um negócio digital, ou mesmo expandir seu negócio. Participando principalmente do desenvolvimento front-end."
+  },
+  {
+    "id": 2,
+    "title": "Estagiário de Desenvolvimento",
+    "description": "Desenvolvimento e manutenção dos módulos do sistema para serviços públicos, tais como almoxarifado, frotas, cadastro único entre outros."
+  },
+  {
+    "id": 3,
+    "title": "Desenvolvedor Freelancer",
+    "description": "Desenvolvimento de um sistema para gestão de serviços para o cliente Fabbro, que tinha por objetivo aumentar os serviços com seus clientes, oferecendo mais um canal de comunicação e disponibilidade de arquivos através da internet."
+  }
+]

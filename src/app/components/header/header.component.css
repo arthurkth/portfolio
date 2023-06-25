@@ -1,0 +1,30 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+.custom-bar {
+  background-color: transparent;
+  margin-bottom: 3rem;
+}
+
+.desktop-menu {
+  display: block !important;
+}
+
+
+@media (min-width: 992px) {
+  .mat-toolbar-row, .mat-toolbar-single-row {
+    padding: 0;
+  }
+  .custom-bar {
+    width: 956px;
+    margin: auto;
+  }
+}
+
+@media (min-width:1400px) {
+  .custom-bar {
+    width: 1216px;
+    margin: auto;
+  }
+}

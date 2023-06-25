@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "description": "Aplicação feita para a empresa de Segurança do Trabalho Fabbro.",
+    "image": "project4.png",
+    "link": "https://ged.fabbro.com.br/login"
+  },
+  {
+    "id": 2,
+    "description": "Projeto pessoal de criação de um layout para Cafeteria.",
+    "image": "project3.png",
+    "link": "https://layout-cafeteria.vercel.app"
+  },
+  {
+    "id": 3,
+    "description": "Projeto pessoal de criação de um layout para site Shopify.",
+    "image": "project1.png",
+    "link": "https://layout-shopify-site.vercel.app"
+  },
+  {
+    "id": 4,
+    "description": "Projeto pessoal de criação de um layout para Pizzaria.",
+    "image": "project2.png",
+    "link": "https://layout-pizzaria.vercel.app"
+  }
+]

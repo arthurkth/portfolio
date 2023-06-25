@@ -1,0 +1,14 @@
+<div>
+  <h2 class="card__title">Minhas Habilidades</h2>
+  <div class="card__grid">
+    <mat-card *ngFor="let item of data" class="mat-card-container skillcard">
+      <mat-card-header>
+        <mat-card-title-group>
+          <mat-card-title>{{ item.name }}</mat-card-title>
+          <mat-card-subtitle>{{ item.time }}</mat-card-subtitle>
+          <img mat-card-sm-image src="/assets/img/{{ item.icon }}" />
+        </mat-card-title-group>
+      </mat-card-header>
+    </mat-card>
+  </div>
+</div>

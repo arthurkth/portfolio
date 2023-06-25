@@ -1,0 +1,45 @@
+<form
+  class="form__contact"
+  [formGroup]="contactForm"
+  #formDir="ngForm"
+  (ngSubmit)="submitForm()"
+>
+  <fieldset>
+    <h2>Entre em Contato</h2>
+    <label for="name">
+      Nome<input type="text" formControlName="name" placeholder="José Da Silva"
+    /></label>
+    <label for="phone"
+      >Telefone<input
+        type="text"
+        formControlName="phone"
+        placeholder="(51) 999999999"
+    /></label>
+    <label for="email"
+      >E-mail<input
+        type="text"
+        formControlName="email"
+        placeholder="seuemail@email.com"
+    /></label>
+    <label for="subject">
+      Assunto
+      <input
+        type="text"
+        formControlName="subject"
+        placeholder="Interesse em contratar os serviços"
+    /></label>
+  </fieldset>
+  <fieldset>
+    <label for="message"
+      >Mensagem
+      <textarea
+        formControlName="message"
+        id=""
+        cols="30"
+        rows="10"
+        placeholder="Sua mensagem aqui..."
+      ></textarea>
+    </label>
+    <input type="submit" value="Enviar" class="form__contact__button" />
+  </fieldset>
+</form>

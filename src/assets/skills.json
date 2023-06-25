@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "PHP",
+    "time": "2 Anos",
+    "icon": "php.png"
+  },
+  {
+    "id": 2,
+    "name": "Laravel",
+    "time": "2 Anos",
+    "icon": "laravel.png"
+  },
+  {
+    "id": 3,
+    "name": "CodeIgniter",
+    "time": "2 Anos",
+    "icon": "codeigniter.png"
+  },
+  {
+    "id": 4,
+    "name": "JavaScript",
+    "time": "2 Anos",
+    "icon": "javascript.png"
+  },
+  {
+    "id": 5,
+    "name": "React",
+    "time": "1 Ano",
+    "icon": "react.png"
+  },
+  {
+    "id": 6,
+    "name": "VueJS",
+    "time": "2 Anos",
+    "icon": "vue.png"
+  },
+  {
+    "id": 7,
+    "name": "HTML",
+    "time": "2 Anos",
+    "icon": "html.png"
+  },
+  {
+    "id": 8,
+    "name": "CSS",
+    "time": "2 Anos",
+    "icon": "css.png"
+  },
+  {
+    "id": 9,
+    "name": "Bootstrap",
+    "time": "2 Anos",
+    "icon": "bootstrap.png"
+  },
+  {
+    "id": 10,
+    "name": "MySQL",
+    "time": "2 Anos",
+    "icon": "mysql.png"
+  }
+]

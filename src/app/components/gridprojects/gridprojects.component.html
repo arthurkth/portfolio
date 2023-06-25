@@ -1,0 +1,23 @@
+<div class="container">
+  <h2 class="card__title">Meus Projetos</h2>
+  <div class="projects__grid">
+    <div class="projects__item-container" *ngFor="let project of projects">
+      <img
+        class="projects__item-container__image"
+        src="/assets/img/{{ project.image }}"
+        alt=""
+      />
+      <div class="projects__item-container__info">
+        <p class="projects__item-container__info--description">
+          {{ project.description }}
+        </p>
+        <a
+          href="{{ project.link }}"
+          class="projects__item-container__info--button"
+          target="_blank"
+          >Visite o Site ></a
+        >
+      </div>
+    </div>
+  </div>
+</div>
