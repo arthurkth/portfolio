@@ -22,5 +22,17 @@
     "description": "Projeto pessoal de criação de um layout para Pizzaria.",
     "image": "project2.png",
     "link": "https://layout-pizzaria.vercel.app"
+  },
+  {
+    "id": 5,
+    "description": "Projeto pessoal de criação de um webapp de busca de temperatura.",
+    "image": "project5.png",
+    "link": "https://weather-hds3u9gwp-arthurkths-projects.vercel.app/"
+  },
+  {
+    "id": 6,
+    "description": "Projeto pessoal de criação de uma Pokedéx como uma PWA.",
+    "image": "project6.png",
+    "link": "https://pokemon-app-rose-six.vercel.app/home"
   }
 ]
